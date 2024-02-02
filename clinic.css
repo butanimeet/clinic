@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+i {
+    color: blue;
+}
+
+.ab {
+    width: 100%;
+    padding-top: 15px;
+    height: 50px;
+    background-color: lightgray;
+    
+}
+
+.b {
+    float: inline-end;
+    width: 23%;
+    font-size: 25px;
+
+}
+
+.a {
+    font-size: 25px;
+    padding-bottom: 0.5%;
+    float: left;
+    
+    
+}
+.bc {
+    background-color: rgb(253, 253, 253);
+}
+
+.nav{
+    width:40%;
+    text-decoration: none;
+    float: right;
+    padding-bottom: 1%;
+    margin: -2%
+
+}
+
+.nav a{
+    text-decoration: none;
+    margin: 9px;
+    
+}
+input{
+    background-color: blue;
+    color: white;
+    height: 100%;
+    font-size: 18px;
+}
+
+
+
+.left {
+    background-color: blue;
+    color: white;
+    width: 50%;
+    height: 500px;
+}
+
+.fonts {
+    padding: 100px;
+    font-size: 30px;
+    margin-left: 10;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+
+}
+
+.M{
+    font-size: 80%;
+    padding-top: 15%;
+
+}
+.M2{
+    padding-right: 40%;
+    float: inline-end;
+    margin: -9%;
+    font-size: 70%;
+
+}
+.right{
+    width: 100%;
+    float: left;
+}
+
+img{
+    
+    margin: -44%;
+    padding-right: 38%;
+    width: 56%;
+    float: right;
+    padding-top: 7%;
+}
+.small{
+    font-size: 50%;
+}
+input{
+    height: ;: 100%;
+}
+
+
+.M3{
+    padding-left:50%;
+    float: inline-end;
+    margin: -9%;
+    font-size: 70%;
+}
